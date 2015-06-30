@@ -1,0 +1,3 @@
+/tmp/vpn-configuration.ini.tx2mIa: line 73: syntax error near unexpected token `}'
+/tmp/vpn-configuration.ini.tx2mIa: line 73: `}'
+E: There are problems and -y was used without --force-yes

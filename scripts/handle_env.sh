@@ -1,0 +1,3 @@
+export OPT_EDIMAX_HOSTAPD=false
+export OPT_APT_UPGRADE=false
+export DEBIAN_FRONTEND=noninteractive

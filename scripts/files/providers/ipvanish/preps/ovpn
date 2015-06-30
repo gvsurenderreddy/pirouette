@@ -1,0 +1,4 @@
+ca /etc/openvpn/configs/ca.ipvanish.com.crt
+log-append /var/log/openvpn/client.log
+auth-user-pass /etc/openvpn/configs/auth.ipvanish.txt
+verb 3

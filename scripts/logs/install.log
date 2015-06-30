@@ -1,0 +1,154 @@
+[H[2Jecho [autoconf] configuring: Installing packages ...
+
+Skip apt-get update because its last run was '0h 3m 5s' ago
+Force install active: removing packages first ...
+Reading package lists...
+Building dependency tree...
+Reading state information...
+The following packages will be REMOVED:
+  bc
+0 upgraded, 0 newly installed, 1 to remove and 0 not upgraded.
+After this operation, 257 kB disk space will be freed.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 23685 files and directories currently installed.)
+Removing bc ...
+Processing triggers for man-db ...
+Successfully removed bc
+Force install active: removing packages first ...
+Reading package lists...
+Building dependency tree...
+Reading state information...
+The following packages were automatically installed and are no longer required:
+  libavahi-client3 libavahi-common-data libavahi-common3 libcups2
+  libfile-copy-recursive-perl libfuse2 liblzo2-2 libpkcs11-helper1
+  libreadline5 libtalloc2 libtdb1 libwbclient0 tdb-tools update-inetd
+Use 'apt-get autoremove' to remove them.
+The following extra packages will be installed:
+  makedev
+The following packages will be REMOVED:
+  console-setup console-setup-linux coreutils dmsetup e2fsprogs fuse hostapd
+  ifupdown initscripts keyboard-configuration libdevmapper1.02.1
+  libparted0debian1 ntfs-3g openssh-server openvpn parted procps ramlog samba
+  samba-common samba-common-bin sysvinit ucf udev util-linux wpasupplicant
+The following NEW packages will be installed:
+  makedev
+WARNING: The following essential packages will be removed.
+This should NOT be done unless you know exactly what you are doing!
+  coreutils e2fsprogs util-linux (due to e2fsprogs) sysvinit initscripts (due
+  to sysvinit)
+0 upgraded, 1 newly installed, 26 to remove and 0 not upgraded.
+Need to get 42.3 kB of archives.
+After this operation, 67.1 MB disk space will be freed.
+Error removing coreutils
+Force install active: removing packages first ...
+Reading package lists...
+Building dependency tree...
+Reading state information...
+The following packages were automatically installed and are no longer required:
+  bind9-host geoip-database libbind9-80 libdns88 libgeoip1 libisc84 libisccc80
+  libisccfg82 liblwres80 libxml2 sgml-base xml-core
+Use 'apt-get autoremove' to remove them.
+The following packages will be REMOVED:
+  dnsutils
+0 upgraded, 0 newly installed, 1 to remove and 0 not upgraded.
+After this operation, 346 kB disk space will be freed.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 23668 files and directories currently installed.)
+Removing dnsutils ...
+Processing triggers for man-db ...
+Successfully removed dnsutils
+Force install active: removing packages first ...
+Reading package lists...
+Building dependency tree...
+Reading state information...
+The following packages were automatically installed and are no longer required:
+  bind9-host geoip-database libbind9-80 libdns88 libgeoip1 libisc84 libisccc80
+  libisccfg82 liblwres80 libxml2 sgml-base xml-core
+Use 'apt-get autoremove' to remove them.
+The following packages will be REMOVED:
+  hostapd
+0 upgraded, 0 newly installed, 1 to remove and 0 not upgraded.
+After this operation, 827 kB disk space will be freed.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 23659 files and directories currently installed.)
+Removing hostapd ...
+Processing triggers for man-db ...
+Successfully removed hostapd
+Force install active: removing packages first ...
+Reading package lists...
+Building dependency tree...
+Reading state information...
+The following packages were automatically installed and are no longer required:
+  bind9-host geoip-database libbind9-80 libdns88 libgeoip1 libisc84 libisccc80
+  libisccfg82 liblwres80 libxml2 sgml-base xml-core
+Use 'apt-get autoremove' to remove them.
+The following packages will be REMOVED:
+  iperf
+0 upgraded, 0 newly installed, 1 to remove and 0 not upgraded.
+After this operation, 157 kB disk space will be freed.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 23639 files and directories currently installed.)
+Removing iperf ...
+Processing triggers for man-db ...
+Successfully removed iperf
+Force install active: removing packages first ...
+Reading package lists...
+Building dependency tree...
+Reading state information...
+The following packages were automatically installed and are no longer required:
+  bind9-host geoip-database libbind9-80 libdns88 libgeoip1 libisc84 libisccc80
+  libisccfg82 liblwres80 libxml2 sgml-base xml-core
+Use 'apt-get autoremove' to remove them.
+The following packages will be REMOVED:
+  isc-dhcp-server
+0 upgraded, 0 newly installed, 1 to remove and 0 not upgraded.
+After this operation, 1,875 kB disk space will be freed.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 23626 files and directories currently installed.)
+Removing isc-dhcp-server ...
+[....] Stopping ISC DHCP server: dhcpd[?25l7[1G[[31mFAIL[39;49m8[?12l[?25h [31mfailed![39;49m
+Processing triggers for man-db ...
+Successfully removed isc-dhcp-server
+Force install active: removing packages first ...
+Reading package lists...
+Building dependency tree...
+Reading state information...
+The following packages were automatically installed and are no longer required:
+  bind9-host crda geoip-database libbind9-80 libdns88 libgeoip1 libisc84
+  libisccc80 libisccfg82 liblwres80 libxml2 sgml-base wireless-regdb xml-core
+Use 'apt-get autoremove' to remove them.
+The following packages will be REMOVED:
+  iw
+0 upgraded, 0 newly installed, 1 to remove and 0 not upgraded.
+After this operation, 137 kB disk space will be freed.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 23614 files and directories currently installed.)
+Removing iw ...
+Processing triggers for man-db ...
+Successfully removed iw
+Force install active: removing packages first ...
+Reading package lists...
+Building dependency tree...
+Reading state information...
+The following packages were automatically installed and are no longer required:
+  bind9-host crda geoip-database libbind9-80 libdns88 libgeoip1 libisc84
+  libisccc80 libisccfg82 liblwres80 libxml2 sgml-base wireless-regdb xml-core
+Use 'apt-get autoremove' to remove them.
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+Successfully removed man
+Force install active: removing packages first ...
+Reading package lists...
+Building dependency tree...
+Reading state information...
+The following packages were automatically installed and are no longer required:
+  bind9-host crda geoip-database libbind9-80 libdns88 libgeoip1 libisc84
+  libisccc80 libisccfg82 liblwres80 liblzo2-2 libpkcs11-helper1 libxml2
+  sgml-base wireless-regdb xml-core
+Use 'apt-get autoremove' to remove them.
+The following packages will be REMOVED:
+  openvpn
+0 upgraded, 0 newly installed, 1 to remove and 0 not upgraded.
+After this operation, 1,029 kB disk space will be freed.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 23608 files and directories currently installed.)
+Removing openvpn ...
+[....] Stopping virtual private network daemon:[?25l7[1G[[32m ok [39;49m8[?12l[?25h.
+Processing triggers for man-db ...
+Successfully removed openvpn
+Force install active: removing packages first ...
+Reading package lists...
+Building dependency tree...
+Reading state information...
